@@ -1,2 +1,0 @@
-('name','age','address','parents','contact number');
-('1','2','3','4','5');
